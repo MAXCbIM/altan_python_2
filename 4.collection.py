@@ -115,5 +115,8 @@ my_dict["Hi"] = "hello"
 # удаление пары по ключу
 del my_dict["A"]
 
-print(my_dict)
+# print(my_dict)
 # print(val)
+
+# *** Множество (set) ***
+# Домашнее задание
